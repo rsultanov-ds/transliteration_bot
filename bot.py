@@ -1,6 +1,8 @@
 import os
 import logging
 
+# comment
+
 from aiogram import Bot, Dispatcher, executor, types
 
 logging.basicConfig(filename='log.txt',level=logging.INFO)
